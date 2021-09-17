@@ -43,4 +43,4 @@ jobs:
           heroku_email: "eliotmat@gmail.com"
           usedocker: false
           branch: "main"
-          healthcheck: "https://[hello-app-23220].herokuapp.com/health"
+          healthcheck: "https://hello-app-23220.herokuapp.com/health"
